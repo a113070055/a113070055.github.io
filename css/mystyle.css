@@ -1,14 +1,14 @@
-/* mystyle.css */
+
 body {
-    background-color: #f8f9fa; /* 淺灰背景 */
+    background-color: #f8f9fa;
 }
 
 #sideNav {
-    background-color: #4E342E; /* 深咖啡色 */
+    background-color: #4E342E;
 }
 
 h2 {
-    color: #343a40; /* 主標題改深灰色 */
+    color: #343a40;
 }
 
 #sideNav .nav-link {
@@ -16,7 +16,7 @@ h2 {
 }
 
 .navbar-brand .img-profile {
-    border: 3px solid #ffffff; /* 頭像邊框 */
+    border: 3px solid #ffffff;
 }
 
 .container-fluid {
@@ -26,7 +26,7 @@ h2 {
 .song-gallery {
     display: flex;
     justify-content: center;
-    gap: 3rem; /* 加大圖片間距 */
+    gap: 3rem;
     flex-wrap: wrap;
     margin-top: 30px;
 }
